@@ -1,1 +1,1 @@
-# SE4050-DL
+# SE4050-Deep Learning
